@@ -1,30 +1,45 @@
-scene StreetNight
+play music1 music
 
-play bgm music
+scene streetnight
 
-load Yukio normal at Left
+Kai: "It's been cold recently, there’s so much snow. It’s also so dark outside at this time of the year."
 
-_: It’s freezing cold recently, there’s so much snow. It’s also so dark outside at this time of the year.
+play walk sfx
 
-_: I should get some hot chocolate to warm myself; if I remember correctly there should be a vending machine over there.
+Kai: "I should get some hot chocolate to warm myself; if I remember correctly there should be a vending machine over there."
 
-scene VendingMachine
+scene vending
 
-_: “The feeling of warm chocolate going in my body never gets old. I should get an extra one for my late movie night.”
+Kai: Aha! Here it is. It seems most people purchased coffee as they are nearly empty.
 
-scene Bridge
+Kai: "I insert a coin and click on the item I want."
 
-_: There are usually a lot of ducks around the bridge during the day.
+Kai: "The feeling of warm chocolate going in my body never gets old. I should get an extra one for my late movie night."
+play drinking sfx
 
-_: I need to get going now though.
+Kai: "The warm drink heated my body slightly, so I was no longer shivering."
 
-_: “I catch a glimpse of a girl who was sitting on the side of the bridge.”
+Kai: "I got a bit calmer. Now that my boss fired me from the work I had been anxious about how I would be able to pay my rent."
 
-_: “It looks like she’s feeling down. Is she crying?”
+Kai: I need to get going now though.
 
+scene bridge
+
+Kai: "There are usually a lot of ducks around the bridge during the day but there are none at the time sadly."
+
+Kai: "Snow seems piled on the ground here more than on the street as this bridge isn’t used that much."
+
+Kai: "I catch a glimpse of a girl who was sitting on the side of the bridge.
+
+load Enya cry at center
+
+Kai: "It looks like she’s feeling down. Is she crying?"
+
+_: What should I do?
 [Ignore / Walk up to her]
-if choice = 2
-    jump bridge
-else
-    jump ignore
+if choice = 1
+    jump end_bad
+else if choice = 2
+    Kai: "Someone once said; Service to others is the rent you pay for your room here on earth."
+    jump bridge_first
 end

@@ -1,0 +1,113 @@
+Kai: Hey there, how are you?
+
+load Enya cry at center
+
+Enya: *sniffle* I'm fine...
+
+Kai: "I go and sit down beside her. It looks cold for her, she doesn’t have that much clothing."
+
+Kai: Want some hot chocolate?
+
+Enya: But it’s yours, I can’t.. take that.
+
+Kai: I insist, it’s not like it’s valuable anyway.
+
+Enya: Well then, thanks a lot.
+
+Kai: "She hesitantly takes the bottle from my hand and takes a sip."
+
+remove Enya
+load Enya sad at center
+
+Kai: So what’s your name? I’m Kai.
+
+remove Enya
+load Enya embarrassed at center
+Enya: ... Enya
+
+remove Enya
+load Enya sad at center
+
+Kai: What a nice name, Enya
+
+remove Enya
+load Enya embarrassed at center
+Enya: Thanks...
+
+remove Enya
+load Enya sad at center
+
+Kai: What brings you out here in the cold?
+
+remove Enya
+load Enya embarrassed at center
+Enya: Nothing, I just... Don’t want to be back home.
+
+Kai: "As she drinks from the bottle I see red markings on her arm. Did she get into a fight with someone?"
+
+Kai: "However, those injuries don’t look like something that would happen after a normal fight."
+
+remove Enya
+load Enya embarrassed at center
+
+play rustle sfx
+
+Enya: *ngh*
+
+Kai: "She pulled down the sleeve of her hoodie to cover her hand."
+
+Kai: "It seems that she realized my stare towards her injured arm."
+
+Kai: Sorry, I shouldn’t have stared at your scar.
+
+Enya: ...
+
+Kai: Do you feel like talking about it? Might help you feel relieved talking to someone stranger.
+
+Enya: ...
+
+Kai: "I guess she doesn't wa-"
+
+remove Enya
+load Enya embarrassed at center
+Enya: ... My boyfriend was obsessed with me and I wanted to be alone... so...
+
+Enya: ...He threatened me with one of his gardening tools that contained an acidic substance...
+
+Enya: I’ve managed to run away, however... I was left with these scars after being exposed to the acid.
+
+remove Enya
+load Enya embarrassed at center
+
+Kai: I’m sorry that happened. You shouldn’t return there.
+
+remove Enya
+load Enya embarrassed at center
+Enya: I wasn’t planning to.
+
+Kai: You’re going to stay out here in the cold all night?
+
+remove Enya
+load Enya embarrassed at center
+
+Enya: I have no other choice, nor anyone else to rely in this part of the city.
+
+remove Enya
+Kai: I don’t think that will- Ah!?
+
+Kai: "She suddenly leans onto my shoulders."
+
+Kai: Enya?
+
+load Enya sleep at center
+
+Enya: ... hrrm mrmm ...
+
+Kai: She isn’t responding. Did she pass out from the cold?
+
+[This isn't my business / I have to get her to a warm place]
+if choice = 1
+    jump end_bad
+else if choice = 2
+    jump bridge_second
+end

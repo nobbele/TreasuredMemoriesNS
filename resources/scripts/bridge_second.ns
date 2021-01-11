@@ -344,7 +344,7 @@ Kai: C-can you just try it on.
 
 scene black
 
-play sfx rustle
+play rustle sfx
 
 Kai: "After waiting patiently for a while I start to wonder what’s taking so long. I go up to the room and ask."
 
@@ -661,4 +661,4 @@ Enya: I love you MC, thanks for taking care of me when I was feeling down. I hop
 
 Kai: ...I love you too Enya.
 
-scene cg_1
+scene cg1

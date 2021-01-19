@@ -1,2 +1,4 @@
 /target
 resources.zip
+**/*.log
+*.exe

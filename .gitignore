@@ -1,3 +1,4 @@
 /target
-**/*.log
 resources.zip
+**/*.log
+*.exe

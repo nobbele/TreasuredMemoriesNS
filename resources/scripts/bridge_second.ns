@@ -4,6 +4,8 @@ Kai: As much as I don’t want to get involved in anything, I can’t just leave
 
 scene black
 
+remove Enya
+
 Kai: "I slide one hand below her knees and one below her back to lift her."
 
 Kai: Wow, she is surprisingly lighter than I expected. Has she been eating at all?
@@ -39,6 +41,8 @@ Kai: "Ugh. Did I do the wrong thing by bringing her here?"
 load Enya angry at center
 Enya: I don’t remember anything like that. You have a lot of explaining to do.
 
+remove Enya
+
 scene black
 
 Kai: "I explained that she fainted while talking to me and that I couldn’t bring myself to leave her behind outside not knowing what might happen to her."
@@ -72,6 +76,8 @@ Enya: *munch much* Th-*mmf*
 
 Kai: "I faintly smile to her expression trying to talk while mouth full of food."
 
+remove Enya
+
 scene black
 
 Kai: Phew, that was tastier than usual! Oh yeah, Enya, I'll go to the store for a bit, I left my number beside the phone if you need anything just ring me.
@@ -80,6 +86,7 @@ Enya: ...
 
 Kai: "I am guessing that means okay?"
 
+remove Enya
 
 scene streetday
 
@@ -180,6 +187,8 @@ Kai: That’s cool.
 
 Kai: "I continue browsing while occasionally getting distracted by various websites. I need to improve my focus."
 
+remove Enya
+
 scene black
 
 Kai: "I applied to a few companies. I hope they’ll respond."
@@ -245,6 +254,8 @@ Kai: Would you... care to join me? Drum Master has a two-player mode, it’s rea
 
 Enya: S-Sure!
 
+remove Enya
+
 scene black
 
 Kai: "We go to the living room together and I hook up the console to the TV."
@@ -276,6 +287,8 @@ Kai: Definitely, but the food should be done by now so let’s play more after w
 Kai: "After we eat the food, we continue to play for a few hours."
 
 Kai: Hadn't had this much fun ever since I moved out of my family, It’s getting late now though, we should call it a day.
+
+remove Enya
 
 scene black
 
@@ -314,6 +327,8 @@ Kai: That does sound annoying to manage without proper tools. Well time for me t
 load Enya normal at center
 Enya: Goodnight...
 
+remove Enya
+
 scene black
 
 Kai: "Hm now that I think about it. Wouldn’t this look like a date? Going out eating with a girl. It’s not like she’d be interested in me though. She’s only staying here for her safety."
@@ -341,6 +356,8 @@ load Enya angry at center
 Enya: ...
 
 Kai: C-can you just try it on.
+
+remove Enya
 
 scene black
 
@@ -392,6 +409,8 @@ Enya: Hm, you keep buying me all this stuff, I want to repay you somehow.
 load Enya coat at center
 
 Kai: "Even though I don’t mind it seems like she will only feel at ease once she feels like she’s helping me too."
+
+remove Enya
 
 scene black
 
@@ -461,6 +480,8 @@ Kai: Of course.
 load Enya coat at center
 
 Enya: You're too nice...
+
+remove Enya
 
 scene black
 
@@ -535,6 +556,8 @@ Kai: "She ran to her room instantly."
 
 Kai: "A kiss to the cheek? What was that? I was totally unprepared for that."
 
+remove Enya
+
 scene black
 
 Kai: "I had trouble sleeping after that. Maybe she did like me after all or was it just thanks?"
@@ -548,6 +571,8 @@ Kai: I see you’re using your tablet already.
 Enya: Yeah! I got a job already. This time I am going to treat you with something.
 
 Kai: I look forward to it.
+
+remove Enya
 
 scene black
 
@@ -598,6 +623,7 @@ Enya: Thanks. So shall we go?
 
 Kai: Yeah, let’s go.
 
+remove Enya
 
 scene black
 
@@ -611,6 +637,7 @@ Kai: Let’s go check it out at least.
 
 Enya: It’s a bit further away but you can see it better.
 
+remove Enya
 
 scene black
 
